@@ -20,3 +20,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to read and use Flutter Documentation
 
 
+![My Card](https://raw.githubusercontent.com/marcoleonardini/my_card/master/my_card.png)
