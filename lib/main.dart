@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
                 Text(
                   'Marco Leonardini',
                   style: TextStyle(
-                    fontSize: 24.0,
+                    fontSize: 28.0,
                     color: Colors.white,
                     fontFamily: 'oxanium',
                   ),
